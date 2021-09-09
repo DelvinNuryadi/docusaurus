@@ -1,6 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+const math = require('remark-math');
+const katex = require('rehype-katex');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
@@ -20,6 +21,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath:'/',
           // Please change this to your repo.
@@ -71,4 +74,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
     }),
+    stylesheets: [
+      {
+          href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+          integrity: "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+          crossorigin: "anonymous",
+      },
+  ],
 });
