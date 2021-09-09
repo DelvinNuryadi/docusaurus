@@ -38,7 +38,7 @@ Software terbagi menjadi 3, yaitu:
 > Aplikasi berfungsi untuk membantu kebutuhan user dalam menggunakan komputer. contoh aplikasi: Microsoft, Adobe, Autodesk dll.
 
 ### 3. Brainware
-:::tip Apa itu brainware?
+:::info Apa itu brainware?
 "Brainware adalah seseorang yang dapat `menciptakan`, `mengatur`, dan `mampu` untuk menjalankan sebuah `sistem informasi`"_(Azhar Susanto 2004)_
 :::
 
