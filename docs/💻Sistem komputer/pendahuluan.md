@@ -16,7 +16,7 @@ Hardware terbagi menjadi 3, yaitu :
 - Input
 >Input adalah perangkat untuk `menerima masukan data` dan program baik dalam bentuk gerak, tekan, atau suara. Contoh perangkat : mouse, microphone, keyboard.
 - Proses
->Suatu perangkat/sistem yang `mengubah data` dari `input` menuju `output`. Contoh perangkat : Prosesor, RAM, PSU, VGA.
+>Suatu perangkat atau sistem yang `mengubah data` dari `input` menuju `output`. Contoh perangkat : Prosesor, RAM, PSU, VGA.
 - Output
 > output adalah perangkat untuk `menyampaikan` hasil `pengolahan data` berupa `informasi` kepada pengguna. output bertugas untuk menampilkan, mencetak, menghasilkan suara, dll. contoh perangkat : Monitor, speaker, printer.
 
