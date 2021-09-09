@@ -1,4 +1,4 @@
-# Pancasila
+# Pancasila⚖️
 :::note Nama dosen
 Dr. HM. Yusuf, M.AP
 :::
