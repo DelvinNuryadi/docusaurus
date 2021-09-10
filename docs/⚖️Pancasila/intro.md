@@ -2,7 +2,7 @@
 :::note Nama dosen
 Dr. HM. Yusuf, M.AP
 :::
-## Pendahuluan
+## A. Landasan Yuridis Pancasila
 :::info Landasan yuridis pendidikan pancasila
 - UUD 1945
 - Ketapan MPR no. II/MPR/1998
