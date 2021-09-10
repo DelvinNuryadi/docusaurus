@@ -1,3 +1,7 @@
+---
+slug: '/bahasaindonesia'
+sidebar_label: Pertemuan1️⃣
+---
 # Bahasa Indonesia📓
 
 :::note nama dosen

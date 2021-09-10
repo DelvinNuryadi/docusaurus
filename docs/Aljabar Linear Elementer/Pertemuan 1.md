@@ -1,3 +1,7 @@
+---
+slug: '/aljabarlinearelementer'
+sidebar_label: Pertemuan1️⃣
+---
 # Aljabar Linear Elementer 📐
 
 :::note Nama dosen

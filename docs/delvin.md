@@ -1,6 +1,7 @@
 ---
 id: intro
 slug: '/'
+sidebar_position: 1
 ---
 # 🖥TEKNOLOGI INFORMASI
 :::danger Program studi
@@ -8,7 +9,7 @@ D4 Teknik Informatika Multimedia
 :::
 
 :::info Jadwal Matkul TIM 1b
-![Example banner](./assets/jadwal-matkul.png)
+![Jadwal matkul](https://res.cloudinary.com/dlvncloud/image/upload/v1631286027/Docusaurus/jadwal-matkul_qpay54.webp)
 :::
 
 :::tip Nama Dosen
