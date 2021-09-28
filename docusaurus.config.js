@@ -67,7 +67,7 @@ const katex = require('rehype-katex');
       footer: {
         style: 'dark',
 
-        copyright: `Copyright © ${new Date().getFullYear()}   delvinotes.`,
+        copyright: `Copyright © ${new Date().getFullYear()}   delvinnotes.`,
       },
       prism: {
         theme: lightCodeTheme,

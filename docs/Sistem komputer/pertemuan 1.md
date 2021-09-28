@@ -1,8 +1,12 @@
 ---
 slug: '/sistemkomputer'
-sidebar_label: Pertemuan1️⃣
+sidebar_label: 1️⃣
 ---
 # Sistem Komputer💻
+:::note Nama Dosen
+Muhammad Bagus Bintang Timur 
+:::
+
 Sistem komputer merupakan kumpulan perangkat yang bekerja sama untuk mengolah `data` dan menghasilkan `informasi`
 
 :::tip

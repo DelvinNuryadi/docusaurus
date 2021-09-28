@@ -1,6 +1,7 @@
 ---
 slug: '/bahasaindonesia'
-sidebar_label: Pertemuan1️⃣
+sidebar_label: 1️⃣
+sidebar_position: 1
 ---
 # Bahasa Indonesia📓
 

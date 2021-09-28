@@ -1,5 +1,5 @@
 ---
 slug: '/aplikasiperkantoran'
-sidebar_label: Pertemuan1️⃣
+sidebar_label: 1️⃣
 ---
 # Aplikasi Perkantoran🏢
