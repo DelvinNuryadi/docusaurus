@@ -7,7 +7,7 @@ sidebar_label: 1️⃣
 :::note Nama dosen
 Bambang Cahyono, S.Pd., M.Kom
 :::
-## A. Integral
+## A. Integral📈
 >Integral adalah operasi matematika yang merupakan anti, kebalikan, atau invers dari operasi turunan.
 
 :::info sifat sifat integral
