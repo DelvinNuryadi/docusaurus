@@ -8,7 +8,7 @@ const katex = require('rehype-katex');
   title: 'MyNotes',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/notes/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://res.cloudinary.com/dlvncloud/image/upload/v1634228646/linktry/favicon-32x32_rr6v9j.png',
