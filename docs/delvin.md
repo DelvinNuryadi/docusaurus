@@ -3,7 +3,10 @@ id: intro
 slug: '/'
 sidebar_position: 1
 ---
-# 🖥TEKNOLOGI INFORMASI
+# Welcome To Delvinotes📝
+
+
+## 🖥️TEKNOLOGI INFORMASI
 :::danger Program studi
 D4 Teknik Informatika Multimedia
 :::

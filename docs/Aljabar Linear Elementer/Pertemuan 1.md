@@ -15,6 +15,7 @@ Bambang Cahyono, S.Pd., M.Kom
 - $\int a\, dx = ax+c$
 - $\int [f(x) + g(x)]\ = \int f(x) dx + \int g(x) dx$
 - $\int [f(x) - g(x)]\ = \int f(x) dx - \int g(x) dx$
+- $\int 1\over x$
 :::
 
 :::info integral fungsi pangkat

@@ -5,13 +5,13 @@ const katex = require('rehype-katex');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
+  title: 'MyNotes',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://res.cloudinary.com/dlvncloud/image/upload/v1634228646/linktry/favicon-32x32_rr6v9j.png',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
@@ -48,7 +48,7 @@ const katex = require('rehype-katex');
         title: 'Delvinnotes',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/image2vector.svg',
+          src: 'https://res.cloudinary.com/dlvncloud/image/upload/v1634228646/linktry/favicon-32x32_rr6v9j.png',
         },
         items: [
           {
