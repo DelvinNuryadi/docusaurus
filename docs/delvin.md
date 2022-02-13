@@ -12,7 +12,7 @@ D4 Teknik Informatika Multimedia
 :::
 
 :::info Jadwal Matkul TIM 1b
-![Jadwal matkul](https://res.cloudinary.com/dlvncloud/image/upload/v1631286027/Docusaurus/jadwal-matkul_qpay54.webp)
+![Jadwal matkul](https://res.cloudinary.com/dlvncloud/image/upload/v1644731853/Docusaurus/WhatsApp_Image_2022-02-13_at_1.57.15_PM_caqzbn.jpg)
 :::
 
 :::tip Nama Dosen
@@ -31,4 +31,8 @@ D4 Teknik Informatika Multimedia
 |           Istia Budi,   ST., MM           |  ISB  | https://wa.me/628152001234  | Dosen Industri  |
 |      Damar   Nucahyono, ST., M.Eng.       |  DNC  | https://wa.me/6281229504888 |      Dosen      |
 |      Muhammad   Bagus Bintang Timur       |  MBT  | https://wa.me/6285754532470 |      dosen      |
+|      Sektalonir Oscarini Wati Bhakti, S.Pd., M.Pd |  OSC  | https://wa.me/628125339100|      Dosen Bahasa Inggris      |
+|      Tommy Bustomi, S.Kom., M.Kom.       |  TMB  | https://wa.me/62811589559 |      dosen Sistem Operasi      |
+ |      Suryady Sujono       |  SSJ  | https://wa.me/62818259297 |      dosen Visualisasi digital 3D     |
+ |      Abdul Rahman, LC., M.Fill.I       |  ABR  | https://wa.me/6285246176564|      dosen Agama      |
 :::
