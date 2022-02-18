@@ -12,7 +12,7 @@ D4 Teknik Informatika Multimedia
 :::
 
 :::info Jadwal Matkul TIM 1b
-![Jadwal matkul](https://res.cloudinary.com/dlvncloud/image/upload/v1644731853/Docusaurus/WhatsApp_Image_2022-02-13_at_1.57.15_PM_caqzbn.jpg)
+![Jadwal matkul](https://res.cloudinary.com/dlvncloud/image/upload/v1645151866/Docusaurus/WhatsApp_Image_2022-02-16_at_12.13.55_PM_uadzts.jpg)
 :::
 
 :::tip Nama Dosen
